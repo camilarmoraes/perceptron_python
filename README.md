@@ -1,2 +1,2 @@
-# perceptron_python
-Código contendo o funcionamento de uma perceptron em python
+# Perceptron usando python
+Código contendo o funcionamento de uma perceptron em python.
